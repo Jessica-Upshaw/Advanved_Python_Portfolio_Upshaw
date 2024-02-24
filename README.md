@@ -1130,7 +1130,6 @@ back_transcribe(my_string)
 # Done
 
 ## Sequence Annotations (1-4)
-```
 ```python
 # pip install biopython
 ```
@@ -7534,7 +7533,6 @@ def display(img, cmap = 'gray'):
 
 ```python
 # Detecting exo 'the war' album  cover from multiple album covers
-# stan exo
 the_war = cv2.imread("the_war.jpg", 0)
 display(the_war)
 ```
