@@ -1,5 +1,5 @@
 # Advanved_Python_Portfolio_Upshaw
-This is the portfolio of python code that I learned during BISC 450C 
+This is the portfolio of python code that I learned in BISC 450C during Winter 2024.
 
 
 ## Sequence Objects (1-4)
