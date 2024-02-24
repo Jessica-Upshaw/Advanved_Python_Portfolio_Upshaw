@@ -1,12 +1,8 @@
 # Advanved_Python_Portfolio_Upshaw
 This is the portfolio of python code that I learned during BISC 450C 
 
-# first level
-## second level
-### third level
 
-
-## Sequence Objects
+## Sequence Objects (1-4)
 ```python
 # Part 1
 ```
@@ -1133,7 +1129,7 @@ back_transcribe(my_string)
 ```python
 # Done
 
-## Sequence Annotations
+## Sequence Annotations (1-4)
 ```
 ```python
 # pip install biopython
@@ -2189,7 +2185,7 @@ print("%s %i %i %i %i" % (rc.id, len(rc), len(rc.features), len(rc.dbxrefs), len
 # Done
 ```
 
-## Sequence Input/Output
+## Sequence Input/Output (1-3)
 ```python
 # pip install biopython
 # ls_orchid.gbk download
@@ -3575,7 +3571,7 @@ SeqIO.write(records, "rev_comp.fasta", "fasta")
 # Done
 ```
 
-## Multiple Sequence Alignment
+## Multiple Sequence Alignment (1-3)
 ```python
 # pip install biopython
 # PF05371_seed.sth download
@@ -4337,7 +4333,7 @@ Phylo.draw_ascii(tree)
 # Parts 4 and 5 are Pairwise_Alignment
 ```
 
-## Pairwise Alignment
+## Pairwise Alignment (Multiple Sequence Alignment 4 and 5)
 ```python
 
 ```
@@ -6271,7 +6267,7 @@ for alignment in blast_record.alignments:
 # Done
 ```
 
-## Open CV
+## Open CV (1-3)
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
