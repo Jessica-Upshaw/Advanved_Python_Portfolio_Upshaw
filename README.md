@@ -5,6 +5,8 @@ This is the portfolio of python code that I learned during BISC 450C
 ## second level
 ### third level
 
+
+## Sequence Objects
 ```python
 # Part 1
 ```
@@ -1130,6 +1132,8 @@ back_transcribe(my_string)
 
 ```python
 # Done
+
+## Sequence Annotations
 ```
 ```python
 # pip install biopython
@@ -2184,6 +2188,8 @@ print("%s %i %i %i %i" % (rc.id, len(rc), len(rc.features), len(rc.dbxrefs), len
 ```python
 # Done
 ```
+
+## Sequence Input/Output
 ```python
 # pip install biopython
 # ls_orchid.gbk download
@@ -3568,6 +3574,8 @@ SeqIO.write(records, "rev_comp.fasta", "fasta")
 ```python
 # Done
 ```
+
+## Multiple Sequence Alignment
 ```python
 # pip install biopython
 # PF05371_seed.sth download
@@ -4329,7 +4337,7 @@ Phylo.draw_ascii(tree)
 # Parts 4 and 5 are Pairwise_Alignment
 ```
 
-
+## Pairwise Alignment
 ```python
 
 ```
@@ -5029,6 +5037,8 @@ aligner.score(target, query, strand = "+")
 ```python
 # Done
 ```
+
+## BLAST
 ```python
 # pip install biopython
 from Bio.Blast import NCBIWWW
@@ -5488,7 +5498,7 @@ for alignment in blast_record.alignments:
 # Done
 ```
 
-
+## Challenge 1
 ```python
 
 ```
@@ -6260,6 +6270,8 @@ for alignment in blast_record.alignments:
 ```python
 # Done
 ```
+
+## Open CV
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
@@ -7039,6 +7051,8 @@ show_pic(blended)
 ```python
 # Done
 ```
+
+## Corner Detection
 ```python
 # pip install --upgrade pip
 # pip install opencv-python
@@ -7243,7 +7257,7 @@ plt.imshow(real_chess)
 # Done 
 ```
 
-
+## Edge Detection
 ```python
 
 ```
@@ -7503,6 +7517,8 @@ plt.imshow(edges)
 ```python
 # Done
 ```
+
+## Feature Matches
 ```python
 import cv2
 import numpy as py
@@ -7735,6 +7751,8 @@ display(flann_matches)
 ```python
 # Done
 ```
+
+## Object Detection
 ```python
 import cv2
 ```
