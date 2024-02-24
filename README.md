@@ -1,9 +1,9 @@
 # Advanved_Python_Portfolio_Upshaw
 This is the portfolio of python code that I learned during BISC 450C 
 
-* first level
-** second level
-*** third level
+# first level
+## second level
+### third level
 
 ```python
 # Part 1
